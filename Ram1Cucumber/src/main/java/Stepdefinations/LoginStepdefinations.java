@@ -69,8 +69,7 @@ public class LoginStepdefinations {
 	}
 
 	@When("^User checks the total cost$")
-	public void user_checks_the_total_cost() throws Throwable {
-	   
+	public void user_checks_the_total_cost() throws Throwable {   
 	}
 
 	@Then("^Total cost should be calculated correctly$")
