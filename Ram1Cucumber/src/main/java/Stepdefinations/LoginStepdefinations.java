@@ -60,8 +60,7 @@ public class LoginStepdefinations {
 	}
 
 	@Then("^Items should be displayed in the cart$")
-	public void items_should_be_displayed_in_the_cart() throws Throwable {
-	   
+	public void items_should_be_displayed_in_the_cart() throws Throwable {  
 	}
 
 	@Given("^User has added items to the shopping cart$")
