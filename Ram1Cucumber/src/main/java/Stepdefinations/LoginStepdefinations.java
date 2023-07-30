@@ -75,8 +75,7 @@ public class LoginStepdefinations {
 	}
 
 	@Then("^Total cost should be calculated correctly$")
-	public void total_cost_should_be_calculated_correctly() throws Throwable {
-	    
+	public void total_cost_should_be_calculated_correctly() throws Throwable {    
 	}
 
 }
