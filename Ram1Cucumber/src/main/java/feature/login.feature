@@ -14,7 +14,6 @@ Feature: Shopping and User Account Functionality
     Given User is logged in
     When User adds items to the shopping cart
     Then Items should be displayed in the cart
-
   Scenario: Calculate Total Cost in Shopping Cart
     Given User has added items to the shopping cart
     When User checks the total cost
