@@ -9,7 +9,7 @@ Feature: Shopping and User Account Functionality
     Given User is on the login page
     When User enters invalid username and password
     Then User should see an error message
-
+    
   Scenario: Add Items to Shopping Cart
     Given User is logged in
     When User adds items to the shopping cart
