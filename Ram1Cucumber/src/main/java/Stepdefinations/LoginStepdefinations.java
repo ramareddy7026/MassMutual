@@ -64,8 +64,7 @@ public class LoginStepdefinations {
 	}
 
 	@Given("^User has added items to the shopping cart$")
-	public void user_has_added_items_to_the_shopping_cart() throws Throwable {
-	   
+	public void user_has_added_items_to_the_shopping_cart() throws Throwable {   
 	}
 
 	@When("^User checks the total cost$")
